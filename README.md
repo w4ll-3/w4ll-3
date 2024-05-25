@@ -123,14 +123,17 @@
 <a href="https://discordapp.com/users/707803422572675113" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
+<br/>
 
 
-<!--profile visit count-->
+
+<!--PROFILE VISIT COUNT-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=w4ll-3&icon=3&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=w4ll-3&color=blueviolet&style=flat&label=Visitas&abbreviated=true)
   
 </div>
+<br/>
 
 
 
