@@ -18,7 +18,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de la programación</h2></summary>
+    <summary><h3 style="display: inline-block">La confusión es parte de la programación</h3></summary>
   </ul>
 </div>
 <br/>
