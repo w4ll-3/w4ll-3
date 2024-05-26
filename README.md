@@ -28,7 +28,7 @@
 <!--ABOUT ME-->
 <div id="user-content-toc">
   <ul align="center">
-   <summary><h2 style="display: inline-block">Sobre Mi 👤</h2></summary>
+   <summary><h2 style="display: inline-block">👤 Sobre Mi</h2></summary>
   </ul>
 </div>
 
@@ -54,7 +54,7 @@
 <!--SKILLS-->
 <div id="user-content-toc">
   <ul align="center">
-   <summary><h2 style="display: inline-block">Habilidades 👨‍💻</h2></summary>
+   <summary><h2 style="display: inline-block">👨‍💻 Habilidades</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -70,7 +70,7 @@
 <!--STATS-->
 <div id="user-content-toc">
   <ul align="center">
-   <summary><h2 style="display: inline-block">Estadísticas GitHub 📈</h2></summary>
+   <summary><h2 style="display: inline-block">📈 Estadísticas GitHub</h2></summary>
   </ul>
 </div>
 <!--- stats & Trophy (start) -->
@@ -112,7 +112,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-   <summary><h2 style="display: inline-block">Contacta Conmigo🤝</h2></summary>
+   <summary><h2 style="display: inline-block">🤝 Contacta Conmigo</h2></summary>
   </ul>
 </div>
 
